@@ -11,7 +11,7 @@ To run the programs:
 
 Instructions for battleship.py and tictactoe.py:
 - These programs use TCP sockets to allow the server side and client side to communicate
-- Currently can only run both server and client on 1 computer
+- Currently can only run both server and client on the same computer
 - Must run server side first, and then connect the client to the server
 - Execute in command line: 
   - $python3 program.py server localhost 5555
