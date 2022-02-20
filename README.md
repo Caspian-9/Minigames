@@ -16,3 +16,7 @@ Instructions for battleship.py and tictactoe.py:
 - Execute in command line: 
   - $python3 program.py server localhost 5555
   - $python3 program.py client localhost 5555
+
+
+
+(note to self replace the images in memory game with something less old and cringe lol)
