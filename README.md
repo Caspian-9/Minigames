@@ -1,4 +1,4 @@
-# MiscSmallGames
+# Minigames
 Some small games written in Python3 or C++
 
 The Python games require pyFLTK to run
